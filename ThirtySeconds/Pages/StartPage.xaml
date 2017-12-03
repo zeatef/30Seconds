@@ -7,14 +7,6 @@
     <ContentPage.Content>
         <AbsoluteLayout BackgroundColor="White">
 
-            <BoxView x:Name="emptyBox"
-                Color="Green"
-                Opacity="0.1"
-                Scale="1"
-                AbsoluteLayout.LayoutBounds=".5,.4,1,1" 
-                AbsoluteLayout.LayoutFlags="All"
-                />
-
             <Label x:Name="welcomeLabel" 
                 Text="Welcome back! Please choose your destination."
                 Font="20"
@@ -22,20 +14,6 @@
                 XAlign="Center"
                 AbsoluteLayout.LayoutBounds=".5,.2,.8,.2" 
                 AbsoluteLayout.LayoutFlags="All" />
-               
-            <Entry Text="Choose your destination" 
-                TextColor="Black"
-                FontSize="10"
-                AbsoluteLayout.LayoutBounds=".5,.46,.75,.04" 
-                AbsoluteLayout.LayoutFlags="All" />
-
-             <Button x:Name="optionsButton" 
-                Text="Choose another option"
-                TextColor="Blue"
-                Font="10"
-                AbsoluteLayout.LayoutBounds=".1,.495,180,50" 
-                AbsoluteLayout.LayoutFlags="PositionProportional">
-            </Button>
 
             <Button x:Name="goButton" 
                 Text="Show Restaurants" 

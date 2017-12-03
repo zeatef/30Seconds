@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{416EA1A3-4357-4EA9-86D9-FDB716A47BED}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="ThirtySeconds/Pages/StartPage.xaml">
     <Files>
-      <File FileName="ThirtySeconds/Pages/StartPage.xaml" Line="20" Column="20" />
+      <File FileName="ThirtySeconds/Pages/StartPage.xaml" Line="51" Column="15" />
       <File FileName="ThirtySeconds/Pages/StartPage.xaml.cs" Line="13" Column="1" />
       <File FileName="iOS/LaunchScreen.storyboard" />
       <File FileName="ThirtySeconds/obj/Debug/ThirtySeconds.Pages.StartPage.xaml.g.cs" Line="1" Column="1" />
