@@ -1,6 +1,5 @@
 /Users/apple/Projects/ThirtySeconds/ThirtySeconds/obj/Debug/ThirtySeconds.csproj.CoreCompileInputs.cache
 /Users/apple/Projects/ThirtySeconds/ThirtySeconds/obj/Debug/ThirtySeconds.App.xaml.g.cs
-/Users/apple/Projects/ThirtySeconds/ThirtySeconds/obj/Debug/ThirtySeconds.Pages.StartPage.xaml.g.cs
 /Users/apple/Projects/ThirtySeconds/ThirtySeconds/bin/Debug/ThirtySeconds.dll
 /Users/apple/Projects/ThirtySeconds/ThirtySeconds/bin/Debug/ThirtySeconds.pdb
 /Users/apple/Projects/ThirtySeconds/ThirtySeconds/bin/Debug/Xamarin.Forms.Core.dll
@@ -16,3 +15,8 @@
 /Users/apple/Projects/ThirtySeconds/ThirtySeconds/obj/Debug/ThirtySeconds.dll
 /Users/apple/Projects/ThirtySeconds/ThirtySeconds/obj/Debug/ThirtySeconds.pdb
 /Users/apple/Projects/ThirtySeconds/ThirtySeconds/obj/Debug/ThirtySeconds.csprojResolveAssemblyReference.cache
+/Users/apple/Projects/ThirtySeconds/ThirtySeconds/obj/Debug/ThirtySeconds.MainPage.xaml.g.cs
+/Users/apple/Projects/ThirtySeconds/ThirtySeconds/obj/Debug/ThirtySeconds.OrderPage.xaml.g.cs
+/Users/apple/Projects/ThirtySeconds/ThirtySeconds/obj/Debug/ThirtySeconds.HistoryPage.xaml.g.cs
+/Users/apple/Projects/ThirtySeconds/ThirtySeconds/obj/Debug/ThirtySeconds.MorePage.xaml.g.cs
+/Users/apple/Projects/ThirtySeconds/ThirtySeconds/obj/Debug/ThirtySeconds.BasketPage.xaml.g.cs

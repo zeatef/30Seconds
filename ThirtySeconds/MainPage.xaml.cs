@@ -5,9 +5,9 @@ using Xamarin.Forms;
 
 namespace ThirtySeconds
 {
-    public partial class StartPage : ContentPage
+    public partial class MainPage : TabbedPage
     {
-        public StartPage()
+        public MainPage()
         {
             InitializeComponent();
         }

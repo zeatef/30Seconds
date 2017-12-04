@@ -8,7 +8,7 @@ namespace ThirtySeconds
         {
             InitializeComponent();
 
-            MainPage = new NavigationPage(new StartPage())
+            MainPage = new NavigationPage(new MainPage())
             {
                 BarBackgroundColor = Color.FromHex("#42af53"),
                 BarTextColor = Color.White

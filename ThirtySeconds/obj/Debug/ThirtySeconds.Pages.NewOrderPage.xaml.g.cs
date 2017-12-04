@@ -8,15 +8,15 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ThirtySeconds {
+namespace ThirtySeconds.Pages {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/apple/Projects/ThirtySeconds/ThirtySeconds/StartPage.xaml")]
-    public partial class StartPage : global::Xamarin.Forms.TabbedPage {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/apple/Projects/ThirtySeconds/ThirtySeconds/Pages/NewOrderPage.xaml")]
+    public partial class NewOrderPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(StartPage));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(NewOrderPage));
         }
     }
 }
