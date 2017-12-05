@@ -10,6 +10,14 @@ namespace ThirtySeconds
         public MainPage()
         {
             InitializeComponent();
+            this.Title = this.CurrentPage.Title;
+            this.CurrentPageChanged += CurrentPageHasChanged;
+
+        }
+
+        protected void CurrentPageHasChanged(object sender, EventArgs e)
+        {
+            this.Title = this.CurrentPage.Title;
         }
     }
 }

@@ -1,9 +1,10 @@
 ﻿<Properties StartupConfiguration="{416EA1A3-4357-4EA9-86D9-FDB716A47BED}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ThirtySeconds/App.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ThirtySeconds/OrderPage.xaml">
     <Files>
-      <File FileName="ThirtySeconds/MainPage.xaml.cs" Line="12" Column="68" />
+      <File FileName="ThirtySeconds/MainPage.xaml.cs" Line="12" Column="1" />
       <File FileName="ThirtySeconds/App.xaml.cs" Line="13" Column="62" />
-      <File FileName="ThirtySeconds/MainPage.xaml" Line="10" Column="18" />
+      <File FileName="ThirtySeconds/MainPage.xaml" Line="14" Column="1" />
+      <File FileName="ThirtySeconds/OrderPage.xaml" Line="9" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.ThirtySeconds.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CA76DEBA-0B78-41D1-97B9-AD8295F74CC6" />

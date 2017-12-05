@@ -4,5 +4,6 @@
     x:Class="ThirtySeconds.OrderPage"
     Title="Pickup Location">
 	<ContentPage.Content>
+       
 	</ContentPage.Content>
 </ContentPage>
