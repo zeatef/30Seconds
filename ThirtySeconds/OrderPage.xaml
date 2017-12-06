@@ -2,8 +2,17 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
     x:Class="ThirtySeconds.OrderPage"
-    Title="Pickup Location">
+    Title="Pickup Location"
+    Icon="car.png">
 	<ContentPage.Content>
+        <AbsoluteLayout>
+            <Label x:Name="welcomeLabel"
+            Text="Welcome back!"
+            HorizontalTextAlignment="Center"
+            AbsoluteLayout.LayoutBounds="0.5,0.2,0.4,0.02"
+            AbsoluteLayout.LayoutFlags="All"
+           /> 
+        </AbsoluteLayout>
        
 	</ContentPage.Content>
 </ContentPage>

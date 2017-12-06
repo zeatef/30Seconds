@@ -122,6 +122,18 @@
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\Batman.png" />
+    <BundleResource Include="Resources\car.png" />
+    <BundleResource Include="Resources\car%402x.png" />
+    <BundleResource Include="Resources\car%403x.png" />
+    <BundleResource Include="Resources\order.png" />
+    <BundleResource Include="Resources\order%402x.png" />
+    <BundleResource Include="Resources\order%403x.png" />
+    <BundleResource Include="Resources\basket.png" />
+    <BundleResource Include="Resources\basket%402x.png" />
+    <BundleResource Include="Resources\basket%403x.png" />
+    <BundleResource Include="Resources\more.png" />
+    <BundleResource Include="Resources\more%402x.png" />
+    <BundleResource Include="Resources\more%403x.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <Import Project="..\packages\Xamarin.Forms.2.4.0.280\build\netstandard1.0\Xamarin.Forms.targets" Condition="Exists('..\packages\Xamarin.Forms.2.4.0.280\build\netstandard1.0\Xamarin.Forms.targets')" />
